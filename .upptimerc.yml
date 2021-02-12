@@ -5,7 +5,7 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Hoopy.be
-    url: https://www.hoopy.be
+    url: https://hoopy.be
   - name: Secret Site
     url: $SECRET_SITE
 

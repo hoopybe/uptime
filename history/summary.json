@@ -1,22 +1,22 @@
 [
   {
     "name": "Hoopy.be",
-    "url": "https://www.hoopy.be",
-    "icon": "https://favicons.githubusercontent.com/www.hoopy.be",
+    "url": "https://hoopy.be",
+    "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
-    "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
+    "time": 517,
+    "timeDay": 517,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2021-02-12": 14
+      "2021-02-12": 15
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-12": 14
+      "2021-02-12": 15
     }
   }
 ]

@@ -1,13 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: hoopybe # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Hoopy.be
     url: https://hoopy.be
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: FW
+    url: $FW_SITE
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
@@ -19,6 +19,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Hoopy.be
+      href: https://hoopy.be
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

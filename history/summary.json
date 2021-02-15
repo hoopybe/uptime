@@ -25,18 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw",
     "status": "up",
-    "uptime": "1.08%",
-    "uptimeDay": "1.08%",
-    "uptimeWeek": "1.08%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "1.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2142,
     "timeDay": 2142,
     "timeWeek": 2142,
     "timeMonth": 2142,
     "timeYear": 2142,
-    "dailyMinutesDown": {
-      "2021-02-15": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]

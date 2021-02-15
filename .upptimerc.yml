@@ -14,7 +14,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://hoopy.be/img/logo.png
   name: Hoopy Uptime
-  introTitle: "**Hoopy** open-source uptime monitor and status page"
+  introTitle: "**Hoopy** uptime monitor and status page"
   introMessage: "This data is updated automatically."
   navbar:
     - title: Status

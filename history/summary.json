@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 559,
-    "timeDay": 451,
-    "timeWeek": 559,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 555,
+    "timeDay": 525,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2021-02-12": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2052,
-    "timeDay": 1794,
-    "timeWeek": 2052,
-    "timeMonth": 2052,
-    "timeYear": 2052,
+    "time": 2027,
+    "timeDay": 1951,
+    "timeWeek": 2027,
+    "timeMonth": 2027,
+    "timeYear": 2027,
     "dailyMinutesDown": {}
   }
 ]

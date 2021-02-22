@@ -10,6 +10,8 @@ sites:
     url: $FW_SITE
   - name: FWA
     url: $FWA_SITE
+  - name: FWM
+    url: $FWM_SITE
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name

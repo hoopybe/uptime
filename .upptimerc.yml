@@ -26,6 +26,8 @@ sites:
     url: $PSI_SITE
   - name: LDP
     url: $LDP_SITE
+  - name: GBZ
+    url: $GBZ_SITE
     
 
 status-website:

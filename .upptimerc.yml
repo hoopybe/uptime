@@ -1,6 +1,7 @@
 # Change these first
 owner: hoopybe # Your GitHub username
 repo: uptime # Your GitHub repository name
+assignees: hoopybe
 
 # Add your sites here
 sites:

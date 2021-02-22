@@ -22,6 +22,10 @@ sites:
     url: $CMG_SITE
   - name: EMYG
     url: $EMYG_SITE
+  - name: PSI
+    url: $PSI_SITE
+  - name: LDP
+    url: $LDP_SITE
     
 
 status-website:

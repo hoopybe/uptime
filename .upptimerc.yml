@@ -15,7 +15,7 @@ sites:
   - name: F2000
     url: $F2000_SITE
   - name: FWAll
-    url: $FWAll_SITE
+    url: $FWALL_SITE
   - name: FWB
     url: $FWB_SITE
     

@@ -28,6 +28,14 @@ sites:
     url: $LDP_SITE
   - name: GBZ
     url: $GBZ_SITE
+  - name: BA
+    url: $BA_SITE
+  - name: TPB
+    url: $TPB_SITE
+  - name: BDH
+    url: $BDH_SITE
+  - name: BIBRU
+    url: $BIBRU_SITE
     
 
 status-website:

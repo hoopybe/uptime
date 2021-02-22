@@ -8,10 +8,15 @@ sites:
     url: https://hoopy.be
   - name: FW
     url: $FW_SITE
-  - name: FWA
+  - name: FWAw
     url: $FWA_SITE
   - name: FWM
     url: $FWM_SITE
+  - name: F2000
+    url: $F2000_SITE
+  - name: FWAll
+    url: $FWAll_SITE
+    
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name

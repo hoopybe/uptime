@@ -97,18 +97,36 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw-all",
     "status": "down",
-    "uptime": "4.79%",
-    "uptimeDay": "4.79%",
-    "uptimeWeek": "4.79%",
-    "uptimeMonth": "4.79%",
-    "uptimeYear": "4.79%",
+    "uptime": "62.73%",
+    "uptimeDay": "62.73%",
+    "uptimeWeek": "62.73%",
+    "uptimeMonth": "62.73%",
+    "uptimeYear": "62.73%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-22": 0
+      "2021-02-22": 5
     }
+  },
+  {
+    "name": "FWB",
+    "url": "$FWB_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "fwb",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 822,
+    "timeDay": 822,
+    "timeWeek": 822,
+    "timeMonth": 822,
+    "timeYear": 822,
+    "dailyMinutesDown": {}
   }
 ]

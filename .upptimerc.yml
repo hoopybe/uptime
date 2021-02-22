@@ -18,6 +18,10 @@ sites:
     url: $FWALL_SITE
   - name: FWB
     url: $FWB_SITE
+  - name: CMG
+    url: $CMG_SITE
+  - name: EMYG
+    url: $EMYG_SITE
     
 
 status-website:

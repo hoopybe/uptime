@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 551,
-    "timeDay": 518,
-    "timeWeek": 559,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 549,
+    "timeDay": 521,
+    "timeWeek": 555,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2021-02-12": 15
     }
@@ -30,11 +30,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2076,
-    "timeDay": 2497,
-    "timeWeek": 2076,
-    "timeMonth": 2076,
-    "timeYear": 2076,
+    "time": 1978,
+    "timeDay": 1846,
+    "timeWeek": 1978,
+    "timeMonth": 1978,
+    "timeYear": 1978,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "FWA",
+    "url": "$FWA_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "fwa",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   }
 ]

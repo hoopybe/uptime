@@ -222,19 +222,19 @@
     "url": "$BA_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ba",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 1841,
-    "timeDay": 5157,
-    "timeWeek": 1841,
-    "timeMonth": 1841,
-    "timeYear": 1841,
+    "status": "up",
+    "uptime": "98.31%",
+    "uptimeDay": "90.18%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
+    "time": 2089,
+    "timeDay": 4879,
+    "timeWeek": 2089,
+    "timeMonth": 2089,
+    "timeYear": 2089,
     "dailyMinutesDown": {
-      "2021-02-28": 20
+      "2021-02-28": 141
     }
   },
   {

@@ -1,3 +1,4 @@
+![Hoopy.be - Digital Brewers](https://hoopy.be/img/Hoopy.be-logo.jpg "Hoopy.be - Digital Brewers")
 # [📈 Live Status](https://hoopybe.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->

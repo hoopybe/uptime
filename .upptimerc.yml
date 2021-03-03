@@ -43,8 +43,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptime
   logoUrl: https://hoopy.be/img/logo.png
-  name: Hoopy Uptime
-  introTitle: "**Hoopy** uptime monitor and status page"
+  name: Hoopy.be Uptime
+  introTitle: "**Hoopy.be** uptime monitor and status page"
   introMessage: "This data is updated automatically."
   navbar:
     - title: Status

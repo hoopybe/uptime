@@ -48,19 +48,19 @@
     "url": "https://google.com/generate_204",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "google-204",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 26,
-    "timeWeek": 45,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 40,
+    "timeDay": 23,
+    "timeWeek": 42,
     "timeMonth": 35,
-    "timeYear": 41,
+    "timeYear": 40,
     "dailyMinutesDown": {
-      "2021-07-12": 0
+      "2021-07-12": 15
     }
   },
   {

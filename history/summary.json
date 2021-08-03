@@ -342,19 +342,19 @@
     "url": "$BIBRU_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bibru",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 965,
-    "timeDay": 882,
-    "timeWeek": 969,
+    "timeDay": 975,
+    "timeWeek": 982,
     "timeMonth": 1060,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2021-08-03": 3
+      "2021-08-03": 19
     }
   },
   {

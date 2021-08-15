@@ -68,19 +68,19 @@
     "url": "$FW_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 2088,
-    "timeDay": 1737,
-    "timeWeek": 2300,
-    "timeMonth": 2396,
-    "timeYear": 2088,
+    "time": 2082,
+    "timeDay": 1520,
+    "timeWeek": 2157,
+    "timeMonth": 2351,
+    "timeYear": 2082,
     "dailyMinutesDown": {
-      "2021-08-15": 27
+      "2021-08-15": 37
     }
   },
   {
@@ -180,19 +180,19 @@
     "url": "$CMG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cmg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 1275,
-    "timeWeek": 1526,
-    "timeMonth": 1385,
-    "timeYear": 1028,
+    "time": 1030,
+    "timeDay": 1317,
+    "timeWeek": 1505,
+    "timeMonth": 1384,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 11
     }
   },
   {

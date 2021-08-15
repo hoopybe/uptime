@@ -369,19 +369,19 @@
     "url": "$EBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ebs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 627,
-    "timeWeek": 840,
-    "timeMonth": 1043,
-    "timeYear": 850,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 857,
+    "timeDay": 1109,
+    "timeWeek": 933,
+    "timeMonth": 1060,
+    "timeYear": 857,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 17
     }
   }
 ]

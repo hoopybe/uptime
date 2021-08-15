@@ -68,19 +68,19 @@
     "url": "$FW_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2093,
-    "timeDay": 2043,
-    "timeWeek": 2447,
-    "timeMonth": 2435,
-    "timeYear": 2093,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 2088,
+    "timeDay": 1737,
+    "timeWeek": 2300,
+    "timeMonth": 2396,
+    "timeYear": 2088,
     "dailyMinutesDown": {
-      "2021-08-15": 1
+      "2021-08-15": 25
     }
   },
   {

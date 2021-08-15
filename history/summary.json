@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 647,
     "timeDay": 1622,
     "timeWeek": 915,
@@ -70,9 +70,9 @@
     "slug": "fw",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2082,
     "timeDay": 1520,
@@ -80,7 +80,7 @@
     "timeMonth": 2351,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2021-08-15": 37
+      "2021-08-15": 25
     }
   },
   {
@@ -144,12 +144,12 @@
     "slug": "fw-all",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 951,
-    "timeDay": 2163,
+    "timeDay": 3458,
     "timeWeek": 1283,
     "timeMonth": 1029,
     "timeYear": 951,
@@ -182,18 +182,16 @@
     "slug": "cmg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1030,
     "timeDay": 1317,
     "timeWeek": 1505,
     "timeMonth": 1384,
     "timeYear": 1030,
-    "dailyMinutesDown": {
-      "2021-08-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EMYG",
@@ -371,9 +369,9 @@
     "url": "$EBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ebs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -382,6 +380,8 @@
     "timeWeek": 840,
     "timeMonth": 1043,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   }
 ]

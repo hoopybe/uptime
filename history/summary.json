@@ -180,9 +180,9 @@
     "url": "$CMG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cmg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -191,7 +191,9 @@
     "timeWeek": 1507,
     "timeMonth": 1403,
     "timeYear": 1033,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-16": 0
+    }
   },
   {
     "name": "EMYG",
@@ -326,11 +328,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bdh",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 711,
     "timeDay": 638,
     "timeWeek": 732,

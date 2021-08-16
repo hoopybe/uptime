@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.12%",
     "time": 680,
     "timeDay": 7037,
     "timeWeek": 1789,
@@ -68,18 +68,19 @@
     "url": "$FW_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2083,
-    "timeDay": 1584,
+    "timeDay": 1737,
     "timeWeek": 2177,
     "timeMonth": 2337,
     "timeYear": 2083,
     "dailyMinutesDown": {
+      "2021-08-16": 2,
       "2021-08-15": 25
     }
   },
@@ -180,11 +181,11 @@
     "url": "$CMG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cmg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1121,
     "timeDay": 5396,
@@ -192,7 +193,7 @@
     "timeMonth": 1845,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2021-08-16": 11
+      "2021-08-16": 0
     }
   },
   {

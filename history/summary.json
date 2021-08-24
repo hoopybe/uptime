@@ -260,19 +260,19 @@
     "url": "$GBZ_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gbz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 2197,
-    "timeDay": 3231,
-    "timeWeek": 2379,
-    "timeMonth": 2185,
+    "timeDay": 2858,
+    "timeWeek": 2349,
+    "timeMonth": 2182,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2021-08-24": 0
+      "2021-08-24": 13
     }
   },
   {

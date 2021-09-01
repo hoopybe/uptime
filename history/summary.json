@@ -68,18 +68,19 @@
     "url": "$FW_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 2092,
     "timeDay": 1294,
     "timeWeek": 2499,
     "timeMonth": 2104,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2021-09-01": 5,
       "2021-08-16": 17,
       "2021-08-15": 25
     }
@@ -89,65 +90,71 @@
     "url": "$FWA_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw-aw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 965,
     "timeDay": 839,
     "timeWeek": 926,
     "timeMonth": 1031,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 4
+    }
   },
   {
     "name": "FWM",
     "url": "$FWM_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fwm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1993,
     "timeDay": 1069,
     "timeWeek": 1952,
     "timeMonth": 1942,
     "timeYear": 1993,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 4
+    }
   },
   {
     "name": "F2000",
     "url": "$F2000_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "f2000",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1101,
     "timeDay": 730,
     "timeWeek": 962,
     "timeMonth": 1040,
     "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 3
+    }
   },
   {
     "name": "FWAll",
     "url": "$FWALL_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fw-all",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 948,
     "timeDay": 855,
@@ -155,6 +162,7 @@
     "timeMonth": 1021,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2021-09-01": 2,
       "2021-08-14": 23
     }
   },
@@ -163,10 +171,10 @@
     "url": "$FWB_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fwb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
@@ -174,7 +182,9 @@
     "timeWeek": 801,
     "timeMonth": 803,
     "timeYear": 769,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 2
+    }
   },
   {
     "name": "CMG",
@@ -352,11 +362,11 @@
     "url": "$BIBRU_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bibru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 984,
     "timeDay": 850,
@@ -364,6 +374,7 @@
     "timeMonth": 1079,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2021-09-01": 1,
       "2021-08-03": 19
     }
   },
@@ -372,9 +383,9 @@
     "url": "$EBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ebs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -384,6 +395,7 @@
     "timeMonth": 893,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2021-09-01": 0,
       "2021-08-15": 17
     }
   }

@@ -4,18 +4,19 @@
     "url": "https://hoopy.be",
     "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.53%",
+    "uptimeYear": "97.54%",
     "time": 678,
     "timeDay": 603,
     "timeWeek": 642,
     "timeMonth": 669,
     "timeYear": 678,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-05-18": 1409,
       "2021-05-17": 1440,
       "2021-05-16": 1440,
@@ -72,12 +73,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 2102,
     "timeDay": 2753,
     "timeWeek": 2528,
-    "timeMonth": 2216,
+    "timeMonth": 2244,
     "timeYear": 2102,
     "dailyMinutesDown": {
       "2021-09-01": 21,
@@ -191,18 +192,19 @@
     "url": "$CMG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cmg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1152,
     "timeDay": 1331,
     "timeWeek": 1355,
-    "timeMonth": 1809,
+    "timeMonth": 1336,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-08-16": 15
     }
   },
@@ -211,9 +213,9 @@
     "url": "$EMYG_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "emyg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -222,16 +224,18 @@
     "timeWeek": 889,
     "timeMonth": 832,
     "timeYear": 800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "PSI",
     "url": "$PSI_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "psi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -241,6 +245,7 @@
     "timeMonth": 1053,
     "timeYear": 963,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-07-27": 27,
       "2021-03-03": 61
     }
@@ -250,9 +255,9 @@
     "url": "$LDP_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ldp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -262,6 +267,7 @@
     "timeMonth": 744,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-07-26": 44
     }
   },
@@ -270,9 +276,9 @@
     "url": "$GBZ_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gbz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,7 +287,9 @@
     "timeWeek": 2139,
     "timeMonth": 2149,
     "timeYear": 2183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "BA",
@@ -362,9 +370,9 @@
     "url": "$BIBRU_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bibru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -374,6 +382,7 @@
     "timeMonth": 931,
     "timeYear": 976,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-09-01": 18,
       "2021-08-03": 19
     }
@@ -383,18 +392,19 @@
     "url": "$EBS_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ebs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 850,
     "timeDay": 1089,
     "timeWeek": 853,
-    "timeMonth": 832,
+    "timeMonth": 836,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2021-09-16": 0,
       "2021-09-01": 17,
       "2021-08-15": 17
     }

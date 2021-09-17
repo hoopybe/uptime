@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/hoopy.be",
     "slug": "hoopy-be",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "92.79%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.51%",
     "time": 678,
     "timeDay": 723,
     "timeWeek": 626,
@@ -49,9 +49,9 @@
     "url": "https://google.com/generate_204",
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "google-204",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -61,6 +61,7 @@
     "timeMonth": 34,
     "timeYear": 38,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-07-12": 15
     }
   },

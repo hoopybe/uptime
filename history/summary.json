@@ -295,9 +295,9 @@
     "url": "$GBZ_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gbz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -307,6 +307,7 @@
     "timeMonth": 2625,
     "timeYear": 2432,
     "dailyMinutesDown": {
+      "2022-02-10": 0,
       "2021-10-13": 66,
       "2021-09-16": 103
     }

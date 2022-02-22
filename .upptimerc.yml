@@ -41,8 +41,6 @@ sites:
     url: $BDH_SITE
   - name: BIBRU
     url: $BIBRU_SITE
-  - name: EBS
-    url: $EBS_SITE
     
 
 status-website:

@@ -1,7 +1,7 @@
 url: $PSI_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-04-11T14:33:19.544Z
+status: up
+code: 200
+responseTime: 946
+lastUpdated: 2022-04-11T14:56:25.907Z
 startTime: Mon Feb 22 2021 13:37:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

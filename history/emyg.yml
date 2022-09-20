@@ -1,7 +1,7 @@
 url: $EMYG_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-20T11:44:08.732Z
+status: up
+code: 200
+responseTime: 1001
+lastUpdated: 2022-09-20T11:55:21.137Z
 startTime: Mon Feb 22 2021 13:34:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

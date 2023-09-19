@@ -1,7 +1,7 @@
 url: $GBZ_SITE
-status: down
-code: 500
-responseTime: 2266
-lastUpdated: 2023-09-19T14:07:47.408Z
+status: up
+code: 200
+responseTime: 2616
+lastUpdated: 2023-09-19T14:27:23.694Z
 startTime: 2021-02-22T13:38:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>

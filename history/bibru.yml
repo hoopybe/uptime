@@ -1,7 +1,7 @@
 url: $BIBRU_SITE
-status: up
-code: 200
-responseTime: 1472
-lastUpdated: 2024-01-16T23:12:07.796Z
+status: down
+code: 502
+responseTime: 25510
+lastUpdated: 2024-01-17T22:30:39.727Z
 startTime: 2021-02-22T13:46:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>

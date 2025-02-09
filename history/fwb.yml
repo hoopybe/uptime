@@ -1,7 +1,7 @@
 url: $FWB_SITE
-status: down
-code: 403
-responseTime: 303
-lastUpdated: 2025-02-09T19:19:16.485Z
+status: up
+code: 200
+responseTime: 515
+lastUpdated: 2025-02-09T19:32:52.835Z
 startTime: 2021-02-22T13:19:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>

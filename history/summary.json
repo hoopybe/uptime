@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1369,
+      "2025-02-18": 1390,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -393,14 +393,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.41%",
+    "uptimeYear": "43.40%",
     "time": 1706,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1634,
     "dailyMinutesDown": {
-      "2025-02-18": 1369,
+      "2025-02-18": 1390,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -654,19 +654,19 @@
     "url": "$FWA_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fw-aw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "89.93%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "91.06%",
+    "uptimeWeek": "89.92%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.41%",
     "time": 1776,
     "timeDay": 1806,
     "timeWeek": 1649,
     "timeMonth": 1727,
-    "timeYear": 1777,
+    "timeYear": 1776,
     "dailyMinutesDown": {
-      "2025-02-18": 126,
+      "2025-02-18": 127,
       "2025-02-17": 214,
       "2025-02-16": 17,
       "2025-02-15": 103,
@@ -690,7 +690,7 @@
       "2025-01-28": 62,
       "2025-01-27": 186,
       "2025-01-26": 189,
-      "2025-01-25": 68
+      "2025-01-25": 45
     }
   },
   {
@@ -710,7 +710,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -1094,7 +1094,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -1478,7 +1478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -1894,7 +1894,7 @@
     "timeDay": 1045,
     "timeWeek": 696,
     "timeMonth": 690,
-    "timeYear": 708,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2025-02-03": 34,
       "2025-01-03": 23,
@@ -2156,7 +2156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -2538,9 +2538,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 941,
+    "timeYear": 878,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -2907,7 +2907,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ldp",
     "status": "down",
-    "uptime": "39.58%",
+    "uptime": "39.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2918,7 +2918,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -3300,7 +3300,7 @@
     "timeDay": 5809,
     "timeWeek": 4679,
     "timeMonth": 4654,
-    "timeYear": 4820,
+    "timeYear": 4818,
     "dailyMinutesDown": {
       "2025-02-15": 20,
       "2024-06-09": 26,
@@ -3322,7 +3322,7 @@
     "timeDay": 1047,
     "timeWeek": 812,
     "timeMonth": 493,
-    "timeYear": 918,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2024-08-28": 17
     }
@@ -3342,7 +3342,7 @@
     "timeDay": 1496,
     "timeWeek": 1226,
     "timeMonth": 1103,
-    "timeYear": 1152,
+    "timeYear": 1151,
     "dailyMinutesDown": {
       "2024-11-07": 17,
       "2024-09-17": 15
@@ -3365,7 +3365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -3747,9 +3747,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1159,
+    "timeYear": 1046,
     "dailyMinutesDown": {
-      "2025-02-18": 1370,
+      "2025-02-18": 1391,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,

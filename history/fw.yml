@@ -1,7 +1,7 @@
 url: $FW_SITE
-status: up
-code: 200
-responseTime: 3854
-lastUpdated: 2025-02-20T23:14:00.541Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-02-21T08:15:13.806Z
 startTime: 2021-02-15T14:14:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>

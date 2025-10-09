@@ -1,7 +1,7 @@
 url: $FWA_SITE
-status: down
-code: 508
-responseTime: 672
-lastUpdated: 2025-10-09T06:55:40.779Z
+status: up
+code: 200
+responseTime: 4049
+lastUpdated: 2025-10-09T07:24:38.236Z
 startTime: 2021-02-22T13:05:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>

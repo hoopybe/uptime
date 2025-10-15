@@ -1,7 +1,7 @@
 url: $CMG_SITE
-status: down
-code: 503
-responseTime: 420
-lastUpdated: 2025-10-15T20:46:15.922Z
+status: up
+code: 200
+responseTime: 854
+lastUpdated: 2025-10-15T20:59:22.239Z
 startTime: 2021-02-22T13:34:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
